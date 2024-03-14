@@ -3,7 +3,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z2x-code&theme=dark&layout=compact&hide=roff,assembly,yacc,objective-c)](https://github.com/z2x-code/github-readme-stats)
 
 
-[![z2x-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=z2x-code&count_private=true&show_icons=true&theme=synthwave)](https://github.com/z2x-code/github-readme-stats)
+[![Z2X's GitHub stats](https://github-readme-stats.vercel.app/api?username=z2x-code&count_private=true&show_icons=true&theme=synthwave)](https://github.com/z2x-code/github-readme-stats)
+- 👋 Hi, I’m @z2x-code
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
