@@ -1,11 +1,9 @@
-### Hi there 👋
+<p align="left"><img src="https://komarev.com/ghpvc/?username=z2x-code" alt="z2x-code"/> </p>
 
-<!--
-**z2x-code/z2x-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z2x-code&theme=dark&layout=compact&hide=roff,assembly,yacc,objective-c)](https://github.com/z2x-code/github-readme-stats)
 
-Here are some ideas to get you started:
--->
 
+[![z2x-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=z2x-code&count_private=true&show_icons=true&theme=synthwave)](https://github.com/z2x-code/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
